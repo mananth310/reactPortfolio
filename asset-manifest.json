@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0232c3d4.css",
+    "main.js": "/static/js/main.e51f5c23.js",
+    "static/media/Hall Booking Software.png": "/static/media/Hall Booking Software.00aece710a010fa4c913.png",
+    "static/media/Billing Software.png": "/static/media/Billing Software.4be0ce453004adabe383.png",
+    "static/media/CoE Automation Software.png": "/static/media/CoE Automation Software.48041936ccf58a1299d9.png",
+    "static/media/Lab Test Software.png": "/static/media/Lab Test Software.bf2906939e1702a3c894.png",
+    "static/media/Online Exam Software.png": "/static/media/Online Exam Software.480d8f0140ffb3571a8e.png",
+    "static/media/myResume.pdf": "/static/media/myResume.43aa1c6a9d3a0b42f3a4.pdf",
+    "static/media/hero.png": "/static/media/hero.b3f8e62dd2dc447de077.png",
+    "static/media/Gate Pass Software.png": "/static/media/Gate Pass Software.3c32760d24d3a5ebc943.png",
+    "static/media/Maintenance.png": "/static/media/Maintenance.591af9fdce4477b207b0.png",
+    "static/media/ananth.jpg": "/static/media/ananth.47ce78304b4eead51f84.jpg",
+    "static/media/record.png": "/static/media/record.d9943d5316b2d2058a05.png",
+    "index.html": "/index.html",
+    "main.0232c3d4.css.map": "/static/css/main.0232c3d4.css.map",
+    "main.e51f5c23.js.map": "/static/js/main.e51f5c23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0232c3d4.css",
+    "static/js/main.e51f5c23.js"
+  ]
+}
